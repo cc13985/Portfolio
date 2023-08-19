@@ -58,7 +58,6 @@ export const Banner = () => {
                 <span className="tagline">Welcome to Claire's Portfolio</span>
                 <h1>{`Hi! I'm Claire. `} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Student", "Web Developer", "Software Engineer", "Dancer", "Artist" ]'><span className="wrap">{text}</span></span></h1>
                   <p>A full time student and full stack developer.</p>
-                  <button>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>

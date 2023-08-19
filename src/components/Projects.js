@@ -61,10 +61,10 @@ export const Projects = () => {
                       <Nav.Link eventKey="first">Visuals</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="second">Descriptions</Nav.Link>
+                      <Nav.Link eventKey="second">About</Nav.Link>
                     </Nav.Item>
                     <Nav.Item>
-                      <Nav.Link eventKey="third">Achievements</Nav.Link>
+                      <Nav.Link eventKey="third">Resume</Nav.Link>
                     </Nav.Item>
                   </Nav>
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
@@ -136,9 +136,16 @@ export const Projects = () => {
                       </div>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                        <h2>
-                          Garuda Hacks 2022, 1st Runner Up for Best All Girls Hack
-                        </h2>
+                        <h2>Garuda Hacks 2022, 1st Runner Up for Best All Girls Hack</h2>
+                        <p>The Food Zoo</p>
+                        <h2>Technica Fellowship 2023</h2>
+                        <p>Froggy & Ducky</p>
+                        <h2>Kode With Klossy AI/ML Scholar 2023</h2>
+                        <p>Playte</p>
+                        <h2>Kode With Klossy Web Development Scholar 2022</h2>
+                        <p>OurChoice</p>
+                        <h2>Jane Street WiSE Program 2023</h2>
+                        <p></p>
                     </Tab.Pane>
                   </Tab.Content>
                 </Tab.Container>
