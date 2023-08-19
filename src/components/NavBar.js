@@ -47,7 +47,7 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/claire-s-chen/"><img src={navIcon1} alt="" /></a>
+                <a href="https://www.linkedin.com/in/claire-s-chen/" target="_blank" rel="noopener noreferrer"><img src={navIcon1} alt="" /></a>
               </div>
             </span>
           </Navbar.Collapse>
