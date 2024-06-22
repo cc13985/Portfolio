@@ -1,12 +1,12 @@
 # [Claire's Portfolio](https://cc13985.netlify.app)
 
 <!-- ABOUT THE PROJECT -->
-## About 📘
+## About 🍰
 
 Welcome to Claire's Portfolio! A website detailing my skills, projects, awards, and achievements throughout my academic and professional career.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With ⚒️
+## Built With 💻
 
 * [![React][React.com]][React-url]
 * [![JavaScript][JS.js]][JS-url]
@@ -16,7 +16,7 @@ Welcome to Claire's Portfolio! A website detailing my skills, projects, awards, 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Installation 💻
+## Installation 🎁
 
 1. Clone the repo
    ```sh
